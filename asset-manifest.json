@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Card-Game/static/css/main.6d516a39.css",
-    "main.js": "/Card-Game/static/js/main.f10d7eac.js",
+    "main.js": "/Card-Game/static/js/main.6ae412d5.js",
     "static/js/787.91b39ffd.chunk.js": "/Card-Game/static/js/787.91b39ffd.chunk.js",
     "static/media/grin.png": "/Card-Game/static/media/grin.2b96288a4b6f1388616e.png",
     "static/media/bird.png": "/Card-Game/static/media/bird.950606afaa9e7663ab6b.png",
@@ -24,11 +24,11 @@
     "static/media/star.png": "/Card-Game/static/media/star.d7c9496ac9fd2c3289c4.png",
     "index.html": "/Card-Game/index.html",
     "main.6d516a39.css.map": "/Card-Game/static/css/main.6d516a39.css.map",
-    "main.f10d7eac.js.map": "/Card-Game/static/js/main.f10d7eac.js.map",
+    "main.6ae412d5.js.map": "/Card-Game/static/js/main.6ae412d5.js.map",
     "787.91b39ffd.chunk.js.map": "/Card-Game/static/js/787.91b39ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d516a39.css",
-    "static/js/main.f10d7eac.js"
+    "static/js/main.6ae412d5.js"
   ]
 }
