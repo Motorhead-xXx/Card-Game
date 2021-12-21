@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body{
+  background-image: url(https://i.ytimg.com/vi/5RizEZH4W-Q/maxresdefault_live.jpg);
+  background-repeat: no-repeat;
+  background-position: inherit;
+  background-size: 100%;
+
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+

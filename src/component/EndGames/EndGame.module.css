@@ -1,0 +1,29 @@
+.endGame {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px 50px;
+    background: #f3f3f3;
+    gap: 15px;
+}
+
+.buttonEndGames {
+    cursor: pointer;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid green;
+    background: white;
+    transition: 0.3s ease all;
+    width: 100%;
+    color: green;
+}
+
+.buttonEndGames:hover {
+    background: #117003;
+    color: #f3f3f3;
+    border: 1px solid white;
+    transform: scale(1.03);
+}
