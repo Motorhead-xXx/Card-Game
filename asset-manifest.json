@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Card-Game/static/css/main.6d516a39.css",
+    "main.js": "/Card-Game/static/js/main.b5f03777.js",
+    "static/js/787.91b39ffd.chunk.js": "/Card-Game/static/js/787.91b39ffd.chunk.js",
+    "static/media/grin.png": "/Card-Game/static/media/grin.2b96288a4b6f1388616e.png",
+    "static/media/bird.png": "/Card-Game/static/media/bird.950606afaa9e7663ab6b.png",
+    "static/media/owl.png": "/Card-Game/static/media/owl.2d7992284d02c5ebf216.png",
+    "static/media/turtle.png": "/Card-Game/static/media/turtle.485d44f157251b26a93b.png",
+    "static/media/mouse.png": "/Card-Game/static/media/mouse.84f72631c5a96aa20322.png",
+    "static/media/fox.png": "/Card-Game/static/media/fox.e824586a302d3a67f6a0.png",
+    "static/media/racoon.png": "/Card-Game/static/media/racoon.053bc0ce433ec173fadb.png",
+    "static/media/shark.png": "/Card-Game/static/media/shark.f641110b36c70c52b021.png",
+    "static/media/frog.png": "/Card-Game/static/media/frog.90f22383e411e0faf303.png",
+    "static/media/dog.png": "/Card-Game/static/media/dog.9c521fb9cca6e9a55247.png",
+    "static/media/fish.png": "/Card-Game/static/media/fish.ddac493214ad611d32da.png",
+    "static/media/lion.png": "/Card-Game/static/media/lion.1e75d18bad845d42d48b.png",
+    "static/media/chickenBig.png": "/Card-Game/static/media/chickenBig.e9853232ba7350d99eb0.png",
+    "static/media/birdORang.png": "/Card-Game/static/media/birdORang.82e4f6498fb5f11935b9.png",
+    "static/media/chicken.png": "/Card-Game/static/media/chicken.0569080501c110d6aa21.png",
+    "static/media/seagull.png": "/Card-Game/static/media/seagull.1d539b91ab10a981620f.png",
+    "static/media/chickBird.png": "/Card-Game/static/media/chickBird.369660710581529934b7.png",
+    "static/media/elephant.png": "/Card-Game/static/media/elephant.e3981c08118b1a35f49c.png",
+    "static/media/star.png": "/Card-Game/static/media/star.d7c9496ac9fd2c3289c4.png",
+    "index.html": "/Card-Game/index.html",
+    "main.6d516a39.css.map": "/Card-Game/static/css/main.6d516a39.css.map",
+    "main.b5f03777.js.map": "/Card-Game/static/js/main.b5f03777.js.map",
+    "787.91b39ffd.chunk.js.map": "/Card-Game/static/js/787.91b39ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d516a39.css",
+    "static/js/main.b5f03777.js"
+  ]
+}
