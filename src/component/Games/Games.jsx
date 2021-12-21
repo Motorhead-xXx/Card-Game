@@ -26,14 +26,12 @@ export const Games = ({
     }
 
     const stop = () => {
-        setTime(<span> {minute <= 9 ? `0${minute}` : minute}:{second <= 9 ? `0${second}`:second} </span>)
+        setTime(<span> {minute <= 9 ? `0${minute}` : minute}:{second <= 9 ? `0${second}` : second} </span>)
         setGameOver(true)
     }
 
     if (matched.length === pairOfArrayCards.length / 2) {
-        setTimeout(() => {
-            setGameOver(true)
-        }, 1500)
+        stop()
     }
 
     if (second === 59) {
